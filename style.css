@@ -1,0 +1,43 @@
+/* Apply styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Styling a class selector */
+.title {
+    color: #3498db;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+/* Styling an ID selector */
+#description {
+    font-size: 18px;
+    color: #2c3e50;
+    margin: 10px 0;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid #333;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+/* Styling a button */
+.btn {
+    background-color: #27ae60;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #219150;
+}
